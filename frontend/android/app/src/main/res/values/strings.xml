@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">आपली शाळा</string>
+    <string name="title_activity_main">आपली शाळा</string>
+    <string name="package_name">com.aaplishala.app</string>
+    <string name="custom_url_scheme">com.aaplishala.app</string>
+</resources>
